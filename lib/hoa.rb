@@ -9,7 +9,7 @@ def add_character(show, name)
  
  
  
- the 
+
  
  
   # Write your implementation here
